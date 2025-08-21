@@ -1,0 +1,50 @@
+[
+  {
+    "id": "0d0543db-92eb-45b3-83f2-6f745d2a5119",
+    "sellerName": "A E",
+    "email": "ahmed248423@bue.edu.eg",
+    "contactNumber": "+201220626665",
+    "whatsappNumber": "+201220626665",
+    "itemName": "Articulator",
+    "itemDescription": "ASA Great Condition",
+    "price": 1500,
+    "pricePeriod": "",
+    "images": [
+      "/uploads/pending/1755643049117-testing website.png"
+    ],
+    "isPublished": true,
+    "otpVerified": false
+  },
+  {
+    "id": "4677481f-863f-4e30-90fa-e801a748e3a9",
+    "sellerName": "A E",
+    "email": "ahmed248423@bue.edu.eg",
+    "contactNumber": "+201220626665",
+    "whatsappNumber": "+201220626665",
+    "itemName": "Articulator",
+    "itemDescription": "ASA Great Condition",
+    "price": 1500,
+    "pricePeriod": "",
+    "images": [
+      "/uploads/pending/1755649159724-testing website.png"
+    ],
+    "isPublished": true,
+    "otpVerified": false
+  },
+  {
+    "id": "03006882-8828-443e-b932-2c51bb4e888b",
+    "sellerName": "A E",
+    "email": "ahmed248423@bue.edu.eg",
+    "contactNumber": "+201220626665",
+    "whatsappNumber": "+201220626665",
+    "itemName": "Articulator",
+    "itemDescription": "ASA Great Condition",
+    "price": 1500,
+    "pricePeriod": "",
+    "images": [
+      "/uploads/pending/1755724927269-testing website.png"
+    ],
+    "isPublished": true,
+    "otpVerified": false
+  }
+]
